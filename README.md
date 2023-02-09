@@ -34,8 +34,11 @@
 
 
       Input: Dhaka
+      
       Output:
+      
       Vowel: 2
+      
       Consonant: 3
 
 
