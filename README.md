@@ -6,18 +6,13 @@
 
    Input: 562
 
-
    Output: 
-
 
    500 1
 
-
    50 1
 
-
    10 1
-
 
    2 1
 
@@ -29,6 +24,8 @@ Output: 8
 
 
 
+
+
 4. Count Vowels and consonants from a word
 Input: Dhaka
 Output:
@@ -37,9 +34,13 @@ Consonant: 3
 
 
 
+
+
 5. Encrypt word when A=F
 Input: Apple
 Output: Fuuqj
+
+
 
 
 
