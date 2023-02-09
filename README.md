@@ -19,8 +19,12 @@
 
 
 3.  Find out sum of digits of a number
-Input: 152
-Output: 8
+
+
+   Input: 152
+
+
+   Output: 8
 
 
 
